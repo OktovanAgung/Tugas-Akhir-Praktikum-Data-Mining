@@ -8,6 +8,5 @@ Disusun Oleh :
 Untuk mencobanya dapat klik link atau scan QR Code dibawah ini :
 - https://oktovanagung-tugas-akhir-praktikum-data-mining-app-9ew8fo.streamlit.app
 
-![qrcode](assets/scan_to_try.png)
 <img src="assets/scan_to_try.png" alt="qrcode" width="200"/>
 
